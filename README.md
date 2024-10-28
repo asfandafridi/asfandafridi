@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asfand Afridi</h1>
-<h3 align="center">Junior Software Engineer | Front End Developer</h3>
+<h3 align="center"> Software Engineer | Full Stack Web Developer, Java Developer, .Net Framework C# Developer, </h3>
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
-- 🌱 I’m currently learning **Nodejs, ReactJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Development based project**
 
